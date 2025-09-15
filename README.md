@@ -1,12 +1,11 @@
 # 🚨 Crisis Helper Bot
 
-A **fast, multilingual, voice-enabled chatbot** that helps users during emergencies with calm, step-by-step guidance.
+A **fast, multilingual chatbot** that helps users during emergencies with calm, step-by-step guidance.
 
 ---
 
 ## 🌟 Features
 - Real-time crisis assistance (panic, disasters, unsafe situations)  
-- Text & voice input  
 - Step-by-step instructions for grounding, safety, and emergency help  
 - Anonymous & 24/7 support  
 
@@ -24,8 +23,7 @@ A **fast, multilingual, voice-enabled chatbot** that helps users during emergenc
 ## 🔧 Tech Stack
 - **Backend:** Python, Flask  
 - **Frontend:** HTML, CSS, JS  
-- **AI Model:** Groq Llama3-8b  
-- **Deployment:** Replit / Free Flask Hosting  
+- **AI Model:** Groq Llama3-8b   
 
 ---
 
